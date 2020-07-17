@@ -1,2 +1,2 @@
 # Todo_List
-Python based prject use to manage daily task.
+Python based project use to manage daily task.
